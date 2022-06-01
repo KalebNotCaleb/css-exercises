@@ -3,3 +3,11 @@ button.base {
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
+button.base.black {
+    color: white;
+    background-color: black;
+}
+
+button.base.yellow {
+    background-color: yellow;
+}
