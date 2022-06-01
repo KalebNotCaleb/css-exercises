@@ -3,6 +3,17 @@ p.odd-number {
     font-family: verdana, "DejaVu Sans", sans-serif;
 }
 
+#element-2 {
+    color: #1db1f0;
+    font-size: 36px;
+}
+
 .odd-number#number-3 {
-    font-size: 24px
+    font-size: 24px;
+}
+
+#element-4 {
+    background-color: #95e197;
+    font-size: 24px;
+    font-weight: bold;
 }
